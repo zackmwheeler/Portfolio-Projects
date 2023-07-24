@@ -31,3 +31,6 @@ LEFT JOIN dbo.market_segment
 on hotels.market_segment = market_segment.market_segment
 LEFT JOIN dbo.meal_cost
 on hotels.meal = meal_cost.meal
+
+-- Create Viz in Tableau for Stakeholders
+-- https://public.tableau.com/views/HotelRevenue_16902273762170/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
