@@ -1,5 +1,6 @@
 --Dataset: Online Retail DataSet
 --Source: https://www.kaggle.com/datasets/siddharththakkar26/online-retail-dataset
+--Link to Tableau Viz: https://public.tableau.com/app/profile/zachary.wheeler/viz/OnlineRetailSales_16910310146960/Dashboard1
 
 Select *
 From OnlineRetail..RetailDataset
